@@ -1,0 +1,13 @@
+* 0.3 (2008/12/29)
+    User-specified settings, separate 'np' command, general code clean up.
+
+* 0.2e (2007/08/05)
+    Maintenance release.
+
+* 0.2c (2006/11/08)
+    When a session is started while a previous one is active, the old
+    timeout handler is removed.
+
+* 0.2b (2006/11/02)
+    Initial public release.
+

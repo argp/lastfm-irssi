@@ -1,0 +1,13 @@
+lastfm.pl -- last.fm now playing script for irssi
+
+This script polls the specified last.fm profile for the most recent
+audioscrobbled track every specified number of seconds (default is
+120).  The track is displayed in every channel specified by the user
+or, if the user does not specify any channels, in the active window.
+Start a new session with /lastfm start your_lastfm_username.  Help is
+available with /lastfm help.  There is also a simpler /np command that
+displays the most recent audioscrobbled track in the active window
+each time it is invoked.
+
+argp, Fri Aug 29 16:46:47 IST 2008
+
