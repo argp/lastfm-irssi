@@ -1,5 +1,5 @@
 # lastfm.pl -- last.fm now playing script for irssi
-# Patroklos Argyroudis, _ at domain argp.gr
+# Patroklos Argyroudis, argp at domain sysc.tl
 
 use strict;
 use vars qw($VERSION %IRSSI);
@@ -12,7 +12,7 @@ $VERSION = '0.3';
 %IRSSI =
 (
     authors     => 'Patroklos Argyroudis',
-    contact     => '_ at domain argp.gr',
+    contact     => 'argp at domain sysc.tl',
     name        => 'last.fm now playing',
     description => 'polls last.fm and displays the most recent audioscrobbled track',
     license     => 'BSD',
